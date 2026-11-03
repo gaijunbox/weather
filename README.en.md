@@ -1,3 +1,5 @@
+Common weather icons, classic ones. Nothing fancy.
+
 #### Software Architecture
 Software architecture description
 
