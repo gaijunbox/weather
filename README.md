@@ -33,12 +33,6 @@
 ![黄瓜天气图标](img/cucumber/yin.png)
 ![黄瓜天气图标](img/cucumber/yun.png)
 
-svg动态图标
 
-<img src="img/svg/clear.svg" alt="动态天气图标" style="width: 50px; height: auto;">
-<img src="img/svg/rain.svg" alt="动态天气图标" style="width: 50px; height: auto;">
-<img src="img/svg/snow.svg" alt="动态天气图标" style="width: 50px; height: auto;">
-<img src="img/svg/cloudy.jpg" alt="动态天气图标" style="width: 50px; height: auto;">
-<img src="img/svg/duo.jpg" alt="动态天气图标" style="width: 50px; height: auto;">
 
 
